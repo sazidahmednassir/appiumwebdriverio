@@ -62,8 +62,8 @@ exports.config = {
       // capabilities for local Appium web tests on an Android Emulator
 
       platformName: "Android",
-      "appium:platformVersion": "15",
-      "appium:deviceName": "emulator-5554",
+      "appium:platformVersion": "14",
+      "appium:deviceName": "98f21c31",
       "appium:app": androidAppPath,
       "appium:automationName": "UIAutomator2",
       "appium:ensureWebviewsHavePages": "true",

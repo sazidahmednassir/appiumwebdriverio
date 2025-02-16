@@ -1,3 +1,5 @@
-describe("My First Test", () => {
-  it("this my first test for practice", () => {});
+describe("sample test", () => {
+  it("sample test", async () => {
+    await driver.pause(3000);
+  });
 });
